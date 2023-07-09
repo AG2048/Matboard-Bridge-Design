@@ -1,4 +1,5 @@
-# CIV102-Bridge
+# Matboard-Bridge-Design
+
 Matboard bridge project for CIV102 - Structure and Material
 
 For the final project of CIV102, students have to design a matboard bridge using limited materials. 
